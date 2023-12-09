@@ -69,5 +69,5 @@ __Run backend__
 
 ## WARNING ⚠️
 
-Please do not push to the repository withoout prior testing on a test-system
+Please do not push to the repository without prior testing on a test-system
 
